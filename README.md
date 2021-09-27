@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssyoni&theme=bear&show_icons=true&custom_title=I'm%20currently%20working%20on%20Backend%20Engineer%20🤔)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[👉👉 go to notion](https://loving-pumpkin-7d4.notion.site/STUDY-d0b31b4f21e64d3e804ccb2f5d2b409f)
